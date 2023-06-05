@@ -3,6 +3,8 @@
 # (c) oVoIndia | oVo-HxBots
 
 import asyncio, random
+import os
+from os import *
 from config import Config
 from telethon import events, Button
 from multiupload.fsub import *
